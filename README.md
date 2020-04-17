@@ -6,7 +6,7 @@ Add wistia id to the file.
 
 ```pip3 install -r ./requirements.txt```
 
-To get all the required dependencies
+##To get all the required dependencies
 
 ```python3 ./wistia-video-downloader.py -h```
 
@@ -19,6 +19,6 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 
-To run the command:
+##To run the command:
 
 ```python3 ./wistia-video-downloader.py new.csv```
