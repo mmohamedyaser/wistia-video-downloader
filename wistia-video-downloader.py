@@ -52,7 +52,7 @@ for i in video_name:
 
 b = 1
 for i, j in zip(a1, video_namecheck):
-    print("Downlading file "+str(b)+": "+str(b)+"_"+str(j))
+    print("Downloading file "+str(b)+": "+str(b)+"_"+str(j))
     (
         ffmpeg
         .input(str(i))
