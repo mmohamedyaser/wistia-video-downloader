@@ -1,7 +1,9 @@
 # wistia-video-downloader
 
 This code allows you to download multiple videos from wistia based videos. 
-Git clone the repo. go to wistia-video-downloader edit new.csv.
+Git clone the repo. 
+
+Go to wistia-video-downloader edit new.csv.
 Add wistia id to the file.
 
 ```pip3 install -r ./requirements.txt```
